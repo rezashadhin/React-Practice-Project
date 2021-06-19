@@ -1,0 +1,35 @@
+.Bio {
+    border: 1px solid #c7c7c7;
+    margin-left: 150px;
+    height: 250px;
+}
+.Skills ul{
+    list-style-type: none;
+    display: block;
+}
+.Skills li{
+    display: inline-block;
+    margin-left: 15px;
+    background: rgba(228, 221, 221, 0.548);
+    padding: 5px;
+}
+.links {
+    padding: 5px;
+    list-style-type: none;
+    display: block;
+}
+.links h4{
+    margin-bottom: 0;
+}
+.links li{
+    display: inline-block;
+    margin-left: 10px;
+    padding: 5px;
+}
+.links a{
+    text-decoration: none;
+    color:rgb(22, 129, 129)
+}
+.links a:hover{
+    color: rgb(129, 10, 240);
+}
